@@ -1,6 +1,6 @@
 ### Hi there, I'm choo 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=BYChoo)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=BYChoo?theme=dracula)]()
 
 
 <!--
