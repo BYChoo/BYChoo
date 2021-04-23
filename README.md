@@ -4,10 +4,8 @@
 
 # Hi, I'm Choo 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and React
+- 🌱 I’m currently learning ...  React and nodejs
 - 👯 I’m looking to collaborate on ... Any of project
 - 🤔 I’m looking for help with ... Vuejs and React
 - 💬 Ask me about ... What ever
