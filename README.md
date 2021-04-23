@@ -36,6 +36,8 @@
 
 ## blog
 
+🔗   https://bychoo.github.io/
+
 #### 包管理
 - [npm安装机制](https://github.com/BYChoo/blog/issues/1)
 - [Yarn的安装理念](https://github.com/BYChoo/blog/issues/2)
