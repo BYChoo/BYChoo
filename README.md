@@ -4,12 +4,6 @@
 
 # Hi, I'm Choo 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=BYChoo&show_icons=true&theme=graywhite)]()
-
-
-<!--
-**BYChoo/BYChoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Not working
@@ -19,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... What ever
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Play PUBG when get bored
--->
 
 ### Languages and Tools:
 <div display="flex">
@@ -41,3 +34,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=linux&logoColor=white">
 </div>
 <br>
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=BYChoo&show_icons=true&theme=graywhite)]()
