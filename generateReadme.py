@@ -79,7 +79,7 @@ def addBlogInfo(f):
 			title2 = i.xpath("./a/span/text()")[0].strip()
 			print(title2)
 			url2 = i.xpath('./a/@href')[0] 
-			item2 = '- [%s](%s)\n' % (title2, url2)
+			item2 = '- [%s](%s)\n' % (title2, "https://bychoo.github.io"+url2)
 			f.write(item2)
 
 def fetch_image(f):
