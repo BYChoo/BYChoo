@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Amalia_de_Llano_y_Dotres%2C_condesa_de_Vilches_%28Federico_de_Madrazo%29.jpg/450px-Amalia_de_Llano_y_Dotres%2C_condesa_de_Vilches_%28Federico_de_Madrazo%29.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rembrandt%2C_Self_Portrait_at_the_Age_of_34.jpg/450px-Rembrandt%2C_Self_Portrait_at_the_Age_of_34.jpg)
