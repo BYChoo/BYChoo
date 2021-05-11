@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/St_Cyprian%27s_Church_Ceiling%2C_Clarence_Gate%2C_London%2C_UK_-_Diliff.jpg/450px-St_Cyprian%27s_Church_Ceiling%2C_Clarence_Gate%2C_London%2C_UK_-_Diliff.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg/450px-Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg)
