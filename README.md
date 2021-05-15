@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/JewelSingaporeVortex1.jpg/525px-JewelSingaporeVortex1.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Colette_and_Maurice_Ravel%27s_L%27enfant_et_les_sortil%C3%A8ges%2C_1st_scene.jpg/450px-Colette_and_Maurice_Ravel%27s_L%27enfant_et_les_sortil%C3%A8ges%2C_1st_scene.jpg)
