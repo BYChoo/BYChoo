@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Portsmouth_Cathedral_West_Great_Organ%2C_Portsmouth%2C_Hampshire%2C_UK_-_Diliff.jpg/525px-Portsmouth_Cathedral_West_Great_Organ%2C_Portsmouth%2C_Hampshire%2C_UK_-_Diliff.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%C3%89douard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg/450px-%C3%89douard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg)
