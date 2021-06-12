@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg/750px-Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Common_blackbird_%28Turdus_merula_mauretanicus%29_female.jpg/525px-Common_blackbird_%28Turdus_merula_mauretanicus%29_female.jpg)
