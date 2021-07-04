@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dendrocygna_eytoni_-_Macquarie_University.jpg/525px-Dendrocygna_eytoni_-_Macquarie_University.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg/750px-BEP-GIRSCH-Declaration_of_Independence_%28Trumbull%29.jpg)
