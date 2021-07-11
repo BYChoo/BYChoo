@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20150201_1316_Skispringen_Hinzenbach_Elena_Runggaldier_8340.jpg/450px-20150201_1316_Skispringen_Hinzenbach_Elena_Runggaldier_8340.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Convicts_Lunatics_and_Women%21_Have_No_Vote_for_Parliament%2C_ca._1907-1918.jpg/450px-Convicts_Lunatics_and_Women%21_Have_No_Vote_for_Parliament%2C_ca._1907-1918.jpg)
