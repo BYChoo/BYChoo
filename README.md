@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg/525px-Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg/600px-Palestine_sunbird_%28Cinnyris_osea_osea%29_male.jpg)
