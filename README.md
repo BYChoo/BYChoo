@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg/525px-Vincent_Van_Gogh_-_Corn_Harvest_in_Provence_-_Google_Art_Project.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg/525px-Stargazer_snake_eel_%28Brachysomophis_cirrocheilos%29_%2814419490013%29.jpg)
