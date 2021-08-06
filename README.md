@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg/450px-C%C3%A9lestin_Nanteuil_-_Jules_Massenet_-_Don_C%C3%A9sar_de_Bazan.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Jean_Augustin_Daiwaille_-_Zelfportret.jpg/450px-Jean_Augustin_Daiwaille_-_Zelfportret.jpg)
