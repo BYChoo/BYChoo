@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_06.jpg/525px-Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_06.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lichfield_Cathedral_Organ%2C_Staffordshire%2C_UK_-_Diliff.jpg/525px-Lichfield_Cathedral_Organ%2C_Staffordshire%2C_UK_-_Diliff.jpg)
