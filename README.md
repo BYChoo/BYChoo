@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg/600px-Black-headed_weaver_%28Ploceus_cucullatus_bohndorffi%29_male_nest_building.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Emma_Smith_DeVoe_by_James_%26_Bushnell_-_No_photographer_stamp.jpg/450px-Emma_Smith_DeVoe_by_James_%26_Bushnell_-_No_photographer_stamp.jpg)
