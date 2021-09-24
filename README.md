@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg/600px-Pierre-Auguste_Lamy_%28%3F%29_-_Les_contes_d%27Hoffmann_by_Jacques_Offenbach%2C_Giulietta_act.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg/450px-Psephotus_haematonotus_male_-_Cornwallis_Rd.jpg)
