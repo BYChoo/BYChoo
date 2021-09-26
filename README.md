@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Equestrian_Portrait_of_Cornelis_%281639%E2%80%931680%29_and_Michiel_Pompe_van_Meerdervoort_%281638%E2%80%931653%29_with_Their_Tutor_and_Coachman_%28%22Starting_for_the_Hunt%22%29_MET_DP146442.jpg/750px-thumbnail.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg/600px-Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg)
