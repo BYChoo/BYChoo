@@ -74,4 +74,4 @@
 - [正则表达式基本规则](https://bychoo.github.io/2021/04/26/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E6%9C%AC%E8%A7%84%E5%88%99/)
 
 ### 每日一图
-![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Senator_George_P._Wetmore_of_Rhode_Island_in_a_Krieger_electric_automobile.jpg/525px-Senator_George_P._Wetmore_of_Rhode_Island_in_a_Krieger_electric_automobile.jpg)
+![House in Provence](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg/525px-Red-billed_gull%2C_Red_Zone%2C_Christchurch%2C_New_Zealand.jpg)
